@@ -1,7 +1,9 @@
 # zipatch-tldr-distrib
 TODO
+`https://github.com/xivdev/zipatch-tldr`
+`https://cdn.jsdelivr.net/gh/xivdev/zipatch-tldr-distrib/hashes/tldr.json`
 
-## Directory Structures
+## Directory Structure
 ## `hashes`
 ### `tldr.json`
 TODO
